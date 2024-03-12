@@ -1,0 +1,19 @@
+﻿  Cordinates.cpp
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\Cordinates.cpp(73,32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\Cordinates.cpp(90,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  абстрактні класи.cpp
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\Cordinates.cpp(73,32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\Cordinates.cpp(90,42): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(27,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(28,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(29,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(46,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(47,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(48,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(49,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(64,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(65,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(66,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Roman\Desktop\projects\абстрактні класи\абстрактні класи\абстрактні класи.cpp(67,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  абстрактні класи.vcxproj -> C:\Users\Roman\Desktop\projects\абстрактні класи\x64\Debug\абстрактні класи.exe
